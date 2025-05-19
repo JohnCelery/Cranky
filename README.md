@@ -13,4 +13,12 @@ Cranky Moon is a modern, mobile‑first e-commerce site for selling sewing patte
 ```bash
 npm install
 npm run dev
+```
+
+## Building
+
+The repository ships with a simple placeholder build script so that `npm run build`
+works even in offline environments. It generates static files in the `dist`
+directory. Install the dependencies first if you want to run the full Next.js
+build.
 
